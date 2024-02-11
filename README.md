@@ -10,4 +10,9 @@ To get started you will need the python module request. You can install by typin
 pip install requests
 pip install pushbullet
 ```
+
+Don't forget to put your username, your password and your the domains you want to update.
+
+Finally you can put your script in cron or for windows in a schedule task.
+
 ![image](https://user-images.githubusercontent.com/47923266/158037700-b77e3fcc-f60b-40fd-b819-58780b6d8fc2.png)
