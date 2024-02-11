@@ -8,6 +8,6 @@ I recently add a notification system with Pushbullet so you can keep track of wh
 To get started you will need the python module request. You can install by typing:
 ```
 pip install requests
-pip install requests
+pip install pushbullet
 ```
 ![image](https://user-images.githubusercontent.com/47923266/158037700-b77e3fcc-f60b-40fd-b819-58780b6d8fc2.png)
